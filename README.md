@@ -1,6 +1,6 @@
 # IoT
 ## System Function
-To simulate the **Smart Home Alert System**, we use the **RFID system** to identify the person, and determine he/she can into house or not.
+To simulate the `**Smart Home Alert System**`, we use the **RFID system** to identify the person, and determine he/she can into house or not.
 If the person has right into the house, then green LED will light up.
 Otherwise, the red LED will light up, the buzzer will buss, the camera will take the picture of the intruder.
 The picture will send to all the members living in this house via **Line Notify**.
